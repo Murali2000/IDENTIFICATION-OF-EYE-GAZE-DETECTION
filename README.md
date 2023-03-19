@@ -7,10 +7,10 @@ For every specific person, this programme is used to identify drowsiness. With t
 Created a strategy to deal with the prevention of drowsiness-related accidents and other related problems.
 
 Key Requirements:
-Python
-Numpy
-Opencv_python
-dlib
+Python,
+Numpy,
+Opencv_python,
+dlib.
 
 The project's primary goal is to identify drowsiness, which can be used for a range of tasks, and to reduce traffic accidents by identifying fatigue.
 
