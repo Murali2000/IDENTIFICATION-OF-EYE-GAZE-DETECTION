@@ -7,7 +7,7 @@ For every specific person, this programme is used to identify drowsiness. With t
 Created a strategy to deal with the prevention of drowsiness-related accidents and other related problems.
 
 Key Requirements:
-python
+Python
 Numpy
 opencv_python
 dlib
