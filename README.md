@@ -9,7 +9,7 @@ Created a strategy to deal with the prevention of drowsiness-related accidents a
 Key Requirements:
 Python
 Numpy
-opencv_python
+Opencv_python
 dlib
 
 The project's primary goal is to identify drowsiness, which can be used for a range of tasks, and to reduce traffic accidents by identifying fatigue.
